@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngshumanPathak
-- 👀 I’m interested in Python and Data Science 
-- 🌱 I’m currently learning Data Science and ML 
+- 👀 Interested in Web Dev Technologies 
+- 🌱 Currently working on MERN stack
 - 📫 How to reach me - Email-pathakangshman700@gmail.com 
 
 <!---
